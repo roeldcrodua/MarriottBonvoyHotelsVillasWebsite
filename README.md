@@ -1,5 +1,7 @@
 # Portfolio Project: Marriott Bonvoy Hotels and Villas
-https://roeldcrodua.github.io/MarriottBonvoyHotelsVillasWebsite/
+- WEBSITE PAGE LINK: https://roeldcrodua.github.io/MarriottBonvoyHotelsVillasWebsite
+- PROTOTYPE LINK: https://docs.google.com/presentation/d/1_Xls6YtyjuPpOu__L8eefdT7IMM3_SheAsrbi9MWFwg/edit#slide=id.g255a39c57c4_0_37
+- CRITERIA DOCUMENT: https://docs.google.com/document/d/15NLJBr9W-5S-wrmzL09hE_WPI5lGJqLzTR1K194ND8U/preview#heading=h.45o83j527rxk
 ## Contents
 
 - Introduction
